@@ -1,0 +1,5 @@
+D:\Work\WeiXin\WeiXin.Commonality\bin\Debug\WeiXin.Commonality.dll
+D:\Work\WeiXin\WeiXin.Commonality\bin\Debug\WeiXin.Commonality.pdb
+D:\Work\WeiXin\WeiXin.Commonality\obj\Debug\WeiXin.Commonality.csprojResolveAssemblyReference.cache
+D:\Work\WeiXin\WeiXin.Commonality\obj\Debug\WeiXin.Commonality.dll
+D:\Work\WeiXin\WeiXin.Commonality\obj\Debug\WeiXin.Commonality.pdb
