@@ -1,0 +1,10 @@
+.gitignore
+.sln
+.dll
+.pdb
+.cache
+.vs
+.csproj
+.user
+Debug/ 
+obj/
